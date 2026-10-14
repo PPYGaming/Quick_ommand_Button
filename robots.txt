@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mcpe-quick-command-button.tamilcraftersstudio.in/sitemap.xml
